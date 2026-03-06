@@ -11,7 +11,7 @@
 [![Status](https://img.shields.io/badge/Status-In_Development-7EC8A4?style=for-the-badge&labelColor=1a1a2e)](.)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-F4A7B9?style=for-the-badge&labelColor=1a1a2e)](.)
 [![For Kids](https://img.shields.io/badge/Made_For-Autistic_Children-FFD580?style=for-the-badge&labelColor=1a1a2e)](.)
-[![Private Repo](https://img.shields.io/badge/Repo-Private-c084fc?style=for-the-badge&labelColor=1a1a2e)](.)
+
 
 </div>
 
